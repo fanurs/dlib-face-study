@@ -32,3 +32,7 @@
     ...
     ```
     You can see the result in the browser at [`http://localhost:5500/`](http://localhost:5500/).
+
+    Here is an example of how it may look like:
+    <br><img width="480" alt="image" src="https://user-images.githubusercontent.com/21100851/159145312-d8a5fb9c-445e-480c-86ae-4a843f4cf047.png">
+    > If you are just loading in the example [`data.db`](data.db), you will not be seeing any image as you hover your cursor onto the points. This feature is only available if you construct your own database from the images you add to [`images/`](images/).
